@@ -1,0 +1,14 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "preview": true,
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/plugin-transform-react-jsx": "^7.17.3",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/traverse": "^7.17.9"
+  }
+}
