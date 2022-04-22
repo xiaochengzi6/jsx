@@ -457,6 +457,8 @@ export function ReactElement (type, key, ref, self, source, owner, props) {
 
 大致的就是用 js 对象描述了一个 dom 树对象 详细的还需要再看一下[源码](https://github.com/xiaochengzi6/jsx-)
 
+官方源码[位置](https://github.com/facebook/react/blob/17.0.2/packages/react/src/ReactElement.js) React V17.0.2
+
 关于例子[在这里](https://github.com/xiaochengzi6/jsx-)
 
 这是 @babel/plugin-transform-react-jsx 精简后的代码
